@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "928280504553",
+    "firebase_url": "https://dwarep-3da08.firebaseio.com",
+    "project_id": "dwarep-3da08",
+    "storage_bucket": "dwarep-3da08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928280504553:android:76d4ae9557956239b66878",
+        "android_client_info": {
+          "package_name": "com.RaniAdam.DwaRep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928280504553-40vgfddsgnfthims6v911rcb0v5j65j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgA0MSnkPn0e2liaM3s_5oaW3Mp1V0sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928280504553-40vgfddsgnfthims6v911rcb0v5j65j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928280504553:android:6a3696c1dc0f2356b66878",
+        "android_client_info": {
+          "package_name": "com.raniadam.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928280504553-96lthf97kpr24dj6s66g49angkiq29s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raniadam.chatroom",
+            "certificate_hash": "503291fcee22b0850623db2d0d85b8833839159e"
+          }
+        },
+        {
+          "client_id": "928280504553-40vgfddsgnfthims6v911rcb0v5j65j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgA0MSnkPn0e2liaM3s_5oaW3Mp1V0sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928280504553-40vgfddsgnfthims6v911rcb0v5j65j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
